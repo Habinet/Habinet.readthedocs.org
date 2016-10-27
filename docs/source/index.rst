@@ -1,4 +1,4 @@
-Welcome to Habinet's documentation!
+Онлайн-сервис Хабинет
 ===================================
 
 .. toctree::
