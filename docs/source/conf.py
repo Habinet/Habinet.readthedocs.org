@@ -156,7 +156,10 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_context = {
-    'css_files': ['_static/theme_overrides.css']
+    'css_files': [
+        'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
+        '_static/theme_overrides.css'
+    ]
 }
 
 # Add any extra paths that contain custom files (such as robots.txt or
