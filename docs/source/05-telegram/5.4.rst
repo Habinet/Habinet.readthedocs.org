@@ -1,2 +1,3 @@
 Как перейти в Хабинет из Telegram?
 ----------------------------------
+.. figure:: ../_images/05-telegram/Screenshot_32.png

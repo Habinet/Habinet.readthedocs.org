@@ -1,2 +1,4 @@
 Как создать класс?
 ------------------
+.. figure:: ../_images/02-our-class/Screenshot_16.png
+    
