@@ -1,2 +1,3 @@
 Как прийти к общему решению?
 ----------------------------
+.. figure:: ../_images/04-difficult-issues/Screenshot_25.png

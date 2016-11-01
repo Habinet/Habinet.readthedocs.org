@@ -1,2 +1,3 @@
 Как учесть мнение родителя?
 ---------------------------
+.. figure:: ../_images/04-difficult-issues/Screenshot_26.png
