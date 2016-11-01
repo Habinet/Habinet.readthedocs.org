@@ -2,4 +2,3 @@
 ===========
 
 .. include:: 7.1.rst
-.. include:: 7.2.rst
