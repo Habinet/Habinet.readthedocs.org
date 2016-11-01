@@ -159,7 +159,9 @@ html_context = {
     'css_files': [
         'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
         '_static/theme_overrides.css'
-    ]
+    ],
+    'display_github': False,
+    'show_source': False
 }
 
 # Add any extra paths that contain custom files (such as robots.txt or
