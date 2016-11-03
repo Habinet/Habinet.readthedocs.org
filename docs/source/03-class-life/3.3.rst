@@ -2,4 +2,4 @@
 ---------------------------
 Чтобы создать или просмотреть объявление, нужно выбрать пункт меню "Объявления".
 
-.. figure:: ../_images/03-class-life/Screenshot_21.png
+.. figure:: ../_images/03-class-life/Screenshot_49.png
