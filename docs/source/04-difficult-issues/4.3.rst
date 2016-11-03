@@ -2,4 +2,8 @@
 ---------------------------------------
 Чтобы просмотреть результаты голосования, нужно проголосовать, после откроется окно с результатами.
 
-.. figure:: ../_images/04-difficult-issues/Screenshot_30.png
+.. figure:: ../_images/04-difficult-issues/Screenshot_41.png
+
+Режим просмотра голосования.
+
+.. figure:: ../_images/04-difficult-issues/Screenshot_45.png

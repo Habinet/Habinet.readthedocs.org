@@ -2,4 +2,4 @@
 ---------------------------
 Чтобы учесть мнение родителя, необходимо во время создания голосования ввести интересующие варианты.
 
-.. figure:: ../_images/04-difficult-issues/Screenshot_26.png
+.. figure:: ../_images/04-difficult-issues/Screenshot_40.png
