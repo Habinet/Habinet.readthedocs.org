@@ -7,3 +7,4 @@
 .. include:: 3.4.rst
 .. include:: 3.5.rst
 .. include:: 3.6.rst
+.. include:: 3.7.rst
